@@ -13,7 +13,7 @@ Bludit ist in wenigen Schtitten installiert:
 
 <h2 id="unterverzeichnis">Installation in einem Unterverzeichnis</h2>
 
-Wird Bludit in einem Unterverzeichnis  eingerichtet, muss bei einigen Hostern die Datei `.htaccess` im Installationsverzeichnis angepasst werden.
+OKOK Wird Bludit in einem Unterverzeichnis  eingerichtet, muss bei einigen Hostern die Datei `.htaccess` im Installationsverzeichnis angepasst werden.
 
 Wird Bludit beispielsweise im Unterverzeichnis `bludit` installiert, muss in diesem Falle die Datei `.htaccess` wie folgt angepasst werden (Zeile 9):
 
